@@ -127,3 +127,9 @@ nav li a.active {
   border-style: solid;
   
 }
+
+.tekst{
+  font-family:'fantasy', garamond, monospace;
+  font-style:bold;
+}
+/* tekst schrijven met of zonder <em>?*/
