@@ -129,7 +129,17 @@ nav li a.active {
 }
 
 .tekst{
-  font-family:'fantasy', garamond, monospace;
+  font-family:'fantasy', helvetica, sans-serif;
   font-style:bold;
 }
 /* tekst schrijven met of zonder <em>?*/
+
+#mariahcarey{
+  margin-right: 400px;
+}
+
+/*.hallo{
+  display: flex;
+}*/
+
+
