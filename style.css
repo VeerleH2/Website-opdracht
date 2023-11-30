@@ -31,7 +31,7 @@ div {                             /* geldt voor div */
 /* Indeling voor alle pagina's */
 
 .page {
-  width: 700px;                   /* vaste breedte van 700 pixels */
+  width: 900px;                   /* vaste breedte van 700 pixels *//*1500 om het breder te maken*/
   margin: 10px auto;              /* boven en onder 10 pixels marge, links en rechts marge gelijk verdeeld (gecentreerd) */
 }
 
@@ -128,14 +128,20 @@ nav li a.active {
   
 }
 
-.tekst{
+p .tekst{
   font-family:'fantasy', helvetica, sans-serif;
-  font-style:bold;
+font-size:1.4cap;
 }
+
+p{
+  font-size:1.7cap;
+}
+
 /* tekst schrijven met of zonder <em>?*/
 
 #mariahcarey{
-  margin-right: 400px;
+  float: right;
+  display:flex;
 }
 
 /*.hallo{
@@ -143,3 +149,6 @@ nav li a.active {
 }*/
 
 
+ol li{
+  font-size:1.65cap;
+}
